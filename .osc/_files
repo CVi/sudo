@@ -1,0 +1,7 @@
+<directory name="sudo" rev="5684419aefd312949ca2ec0d71a607eb" srcmd5="5684419aefd312949ca2ec0d71a607eb">
+  <linkinfo baserev="3e1c27fe4e66d0433703ddc42d79d85b" lsrcmd5="857c6f2b8b6ab5f2882c0cd7d5954fa8" package="sudo" project="Mer:Tools:Testing" srcmd5="3e1c27fe4e66d0433703ddc42d79d85b" />
+  <entry md5="82cee174401d16e790130d4817c3f024" mtime="1328599085" name="sudo-1.8.2.tar.bz2" size="1120052" />
+  <entry md5="43e8d217af6063cec189ef4407d26e12" mtime="1329172358" name="sudo.pamd" size="193" />
+  <entry md5="748dd4d7b57067078b5e3d626011fa41" mtime="1329172360" name="sudo.spec" size="2150" />
+  <entry md5="7c7c9809d44b1c33bc73289aa196dc38" mtime="1328599605" name="sudo.yaml" size="1100" />
+</directory>
